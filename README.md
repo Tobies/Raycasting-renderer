@@ -7,4 +7,4 @@ Note that the right side of the screen is a top down view of the map and the lef
 
 Known bug: the renderer applies a fish eye effect which makes it flicker while moving.
 
-You can try out this demo by going to: https://tobies.github.io/Wave-function-collapse
+You can try out this demo by going to: https://tobies.github.io/Raycasting-renderer
